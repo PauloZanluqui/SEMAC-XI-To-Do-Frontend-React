@@ -1,0 +1,15 @@
+.header {
+    margin: 50px 0 50px 0;
+}
+
+.header-title {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header-subtitle {
+    font-size: 18px;
+    text-align: center;
+    padding-top: 15px;
+}
